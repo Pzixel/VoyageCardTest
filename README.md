@@ -1,2 +1,2 @@
 # VoyageCardTest
-Library which sorts card to create continuous path
+Library which sorts cards to create continuous path
